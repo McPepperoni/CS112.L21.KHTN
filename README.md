@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #CS112.L21.KHTN - Algorithm Analysis and Design
 ##1. Group 7
 |Student ID|Name| 
@@ -19,4 +20,6 @@
 -Slide:
 -Code example:
 -Exercise:
+=======
+>>>>>>> cf3417c6cdfbfb36930b8c0825e3746ad7cd11ec
 
