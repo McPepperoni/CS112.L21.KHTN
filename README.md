@@ -9,7 +9,7 @@
 ## 2. Assignments
 1. Week 1: [Tảo biển - BOT](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week1)
 2. Week 2: [H-Index - Khóa số - Con đường gốm sứ](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week2)
-3. Week 3: [ĐỔi mới - Số nguyên mới - Hệ thống cấp nước]()
+3. Week 3: [Đổi mới - Số nguyên mới - Hệ thống cấp nước]()
 
 ## 3. Homework
 1. Week 1: [Complexity Analysis of Algorithms]() 
