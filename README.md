@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS112.L21.KHTN - Algorithm Analysis and Design - Group 9
 
 ## 1. Group 7
@@ -19,9 +18,9 @@
 4. [Week 4: Brute Force Aproach]()
 5. [Week 5: Backtracking]()
 ## 4. Seminar
--Slide:
--Code example:
--Exercise:
+- Slide:
+- Code example:
+- Exercise:
 =======
->>>>>>> cf3417c6cdfbfb36930b8c0825e3746ad7cd11ec
+
 
