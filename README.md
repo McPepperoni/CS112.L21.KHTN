@@ -18,9 +18,6 @@
 4. Week 4: [Brute Force Aproach]()
 5. Week 5: [Backtracking]()
 ## 4. Seminar
-- Slide: [Branch and bound]()
+- Slide: [Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
 - Code example: [0/1 Knapsack]()
-- Exercise:[N-Queens || Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
-
-
-
+- Exercise: [N-Queens || Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
