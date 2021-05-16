@@ -1,4 +1,4 @@
-# CS112.L21.KHTN - Algorithm Analysis and Design - Group 9
+# CS112.L21.KHTN - Algorithm Analysis and Design - Group 7
 
 ## 1. Group 7
 | Student ID | Name |
