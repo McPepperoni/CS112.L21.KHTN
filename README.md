@@ -21,3 +21,4 @@
 - Slide: [Branch and bound](https://uithcm-my.sharepoint.com/:p:/g/personal/19522096_ms_uit_edu_vn/EcqemTVRv5xGtiNv5ozW0hsBwJe-GT9M_YCdJaCdPD0LCw?e=XNNPTa)
 - Code example: [0/1 Knapsack]()
 - Exercise: [N-Queens || Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
+- Kahoot: [Branch n' bound](https://create.kahoot.it/share/branch-n-bound/138d3fe3-6cea-43c2-adcf-5e7380a28f6d)
