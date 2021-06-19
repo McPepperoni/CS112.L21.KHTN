@@ -21,9 +21,11 @@
 6. Week 7: [Dynamic Programing](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week7)
 7. Week 8: [Geometric Algorithms](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week8)
 8. Week 9: [Graph Algorithms](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week9)
-9. Week 10: [Practice](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week10)
+9. Week 10: [Practice 1](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week10)
+10. Week11: [Practice 2](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week11)
 ## 4. Seminar
 - Slide: [Branch and bound](https://uithcm-my.sharepoint.com/:p:/g/personal/19522096_ms_uit_edu_vn/EcqemTVRv5xGtiNv5ozW0hsBwJe-GT9M_YCdJaCdPD0LCw?e=XNNPTa)
 - Code example: [0/1 Knapsack](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Seminar)
 - Exercise: [N-Queens || Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
 - Kahoot: [Branch n' bound](https://create.kahoot.it/share/branch-n-bound/138d3fe3-6cea-43c2-adcf-5e7380a28f6d)
+- Report: [Report and evaluate](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Seminar)
