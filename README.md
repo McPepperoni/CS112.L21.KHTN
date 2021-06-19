@@ -13,9 +13,9 @@
 4. Week 4: [Phân số]()
 
 ## 3. Homework
-1. Week 1: [Complexity Analysis of Algorithms]() 
-2. Week 2: [Divide and conquer]()
-3. Week 3: [Greedy Approach]()
+1. Week 1: [Complexity Analysis of Algorithms](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week1) 
+2. Week 2: [Divide and conquer](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week2)
+3. Week 3: [Greedy Approach](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week3)
 4. Week 4: [Brute Force Aproach]()
 5. Week 5: [Backtracking](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Homework/Week5)
 6. Week 7: [Dynamic Programing]()
