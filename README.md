@@ -29,7 +29,7 @@
 - Exercise: [N-Queens || Branch and bound](https://drive.google.com/drive/folders/1OtuymA9cYkc6OGFagGY5_bQpO30QUl05?usp=sharing)
 - Kahoot: [Branch n' bound](https://create.kahoot.it/share/branch-n-bound/138d3fe3-6cea-43c2-adcf-5e7380a28f6d)
 - Report: [Report and evaluate](https://github.com/McPepperoni/CS112.L21.KHTN/tree/main/Seminar)
-## Practice:
+## 5. Practice:
 | Nguyễn Phú Quang | Mai Đại Lâm |
 | --- | --- |
 | [Hackerrank](https://www.hackerrank.com/handsomepharaon)|
